@@ -3,8 +3,12 @@
 
 ## Hello, I'm Marissa 👋🏽 :sparkles: 
 
-### Hackbright Academy alumna 📕
-### Outgoing, Empathetic, & Determined 
-### Looking to start my career as a Software Engineer :seedling:
+I am a recent coding bootcamp graduate seeking full-time employment as a Software Engineer. 💻 :seedling: 
 
-### Connect with me on [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/)! 👈🏽
+• Hackbright Academy Alumna 
+• Outgoing, determined, and eager to learn! 
+• Former Technical Sourcing Specialist 
+
+
+
+### [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/) | [Portfolio](https://meaguileraa.github.io/Portfolio/)
