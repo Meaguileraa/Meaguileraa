@@ -7,8 +7,8 @@
 
 #### I am outgoing, determined, and very eager to learn as I transition to this new career path.
 
-### Currently working on: 
-* Learning Ruby :ruby:
+### 📍 Currently working on: 
+* Learning Ruby
 * Full-stack web app: Music Comparison :musical_note:
 
 ### [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/) | [Portfolio](https://meaguileraa.github.io/Portfolio/)
