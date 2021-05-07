@@ -3,12 +3,13 @@
 
 ## Hello, I'm Marissa 👋🏽 :sparkles: 
 
-#### I am a Hackbright Academy Alumna seeking full-time employment as a Software Engineer 💻 
+#### I graduated from Hackbright Academy's coding bootcamp in September 2020 and am starting my career at Airbnb as a Software Engineer Apprentice. 💻 
 
-#### I am outgoing, determined, and very eager to learn as I transition to this new career path.
+#### 🪴 I'm a plant mom who loves hiking and creating digital illustrations. I am outgoing, determined, and very eager to learn as I transition to this new career path.
 
 ### 📍 Currently working on: 
 * Learning Ruby
-* Full-stack web app: Music Comparison :musical_note:
 
+
+### Contact Me 💌
 ### [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/) | [Portfolio](https://meaguileraa.github.io/Portfolio/)
