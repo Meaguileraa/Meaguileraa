@@ -12,5 +12,4 @@
 * Learning Ruby
 
 
-### Contact Me 💌
-### [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/) | [Portfolio](https://meaguileraa.github.io/Portfolio/)
+### 💌 Contact Me: [LinkedIn](https://www.linkedin.com/in/marissa-aguilera/) | [Portfolio](https://meaguileraa.github.io/Portfolio/)
