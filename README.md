@@ -2,7 +2,9 @@
 <!-- This is a README.md for my GitHub page -->
 
 ## Hello, I'm Marissa 👋🏽 ✨ 
-### | Latina | Creative | Problem Solver | 
+<p align="center">
+    ### | Latina | Creative | Problem Solver | 
+</p>
 
 #### I graduated from Hackbright Academy's coding bootcamp in September 2020 and am starting my career at Airbnb as a Software Engineer Apprentice. 💻 
 
